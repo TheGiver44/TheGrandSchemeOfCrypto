@@ -117,3 +117,10 @@ body {
   -webkit-line-clamp: 3;
   overflow: hidden;
 }    
+
+
+article {
+  -webkit-columns: 3 200px;
+  -moz-columns: 3 200px;
+  columns: 3 200px;
+}
